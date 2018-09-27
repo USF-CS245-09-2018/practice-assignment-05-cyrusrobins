@@ -1,3 +1,3 @@
 # CS 245 (Fall, 2018) Practice Assignment 05
 
-See assignment details on Canvas.
+The Graph is at: https://docs.google.com/document/d/1W_42HEZmPkz4iguPxjHvphsth02I5CsRIh_xulUThk4/edit
